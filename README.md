@@ -15,8 +15,8 @@ It is built with the following:
 
 - EcmaScript6 (ES6)
 - [Contentful](https://www.contentful.com/)
-- [LocaStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
-- [liverServer](https://www.npmjs.com/package/live-server)
+- [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+- [liveserver](https://www.npmjs.com/package/live-server)
 
 ## Installation
 
